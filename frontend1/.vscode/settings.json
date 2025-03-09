@@ -1,0 +1,4 @@
+{
+    "githubIssues.userCompletions.enabled": true,
+    "githubIssues.issueCompletions.enabled": true
+}
